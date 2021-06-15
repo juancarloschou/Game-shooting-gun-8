@@ -1,0 +1,33 @@
+<Fases>
+	<Fase>
+		<Id>1.1</Id>
+		<Nombre>Primera</Nombre>
+		<Nivel1>1</Nivel1>
+		<Nivel2>1</Nivel2>
+		<Tiempo>100</Tiempo>
+		<Estilo>Tierra</Estilo>
+		<Escenario>
+			<Arbol></Arbol>
+			<Piedra></Piedra>
+			<Edificio>
+				...se rompen...
+			</Edificio>
+		</Escenario>
+		<Enemigos>
+			<Enemigo>
+				<Nombre>SoldadoRaso</Nombre>
+				<Especial>DobleVida</Especial>
+				<Posicion>
+					<x>20</x><y>200</y><z>200</z>
+				</Posicion>
+				<Tiempo>0</Tiempo>
+				<Moviviento>
+					<x>1</x>
+					<y>0</y>
+					<z>1</z>
+				</Movimiento>
+				
+			</Enemigo>
+		</Enemigos>
+	</Fase>
+</Fases>

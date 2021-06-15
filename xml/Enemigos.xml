@@ -1,0 +1,10 @@
+<Enemigos>
+	<Enemigo>
+		<Nombre>SoldadoRaso</Nombre>
+		<Tipo>Soldado</Tipo>
+		<DanoMin>10</DanoMin>
+		<DanoMax>20</DanoMax>
+		<VidaMin>40</VidaMin>
+		<VidaMax>60</VidaMax>
+	</Enemigo>
+</Enemigos>
